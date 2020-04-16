@@ -1,2 +1,0 @@
-# reactwarriors
-Created with CodeSandbox
