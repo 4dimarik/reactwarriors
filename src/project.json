@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "scode": " НКБГ.4255009",
+    "code": "850",
+    "name": "ТСЭР КЦОИ в МР",
+    "organization": "1",
+    "suborg": "0"
+  },
+  {
+    "id": "2",
+    "scode": "НКБГ.4255009",
+    "code": "830",
+    "name": "ТСЭР КЦОИ в НН",
+    "organization": "1",
+    "suborg": "0"
+  },
+  {
+    "id": "3",
+    "scode": "НКБГ.4255009",
+    "code": "500",
+    "name": "ТСЭР",
+    "organization": "1",
+    "suborg": "0"
+  },
+  {
+    "id": "4",
+    "scode": "НКБГ.425500",
+    "code": "5",
+    "name": "ТСЭР Регион",
+    "organization": "1",
+    "suborg": "1"
+  },
+  {
+    "id": "5",
+    "scode": "НКБГ.4255009",
+    "code": "700",
+    "name": "ТСЭР МР",
+    "organization": "1",
+    "suborg": "34"
+  }
+]
